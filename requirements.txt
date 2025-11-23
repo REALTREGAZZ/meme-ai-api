@@ -1,7 +1,2 @@
 flask
-transformers
-diffusers
-torch
-accelerate
-Pillow
 gunicorn
